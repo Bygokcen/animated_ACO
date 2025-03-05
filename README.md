@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ants_simulation_TSP
+
 =======
 # Traveling Salesman Problem with Ant Colony Optimization
 
@@ -32,4 +31,4 @@ This Restart ile mevcut simasyon ayarlarında aynı simülasyonu tekrar başlata
    pip install matplotlib
 
    matplotlib kütüphanesi için: env oluşturulması gerekir.
->>>>>>> 9caa3fb (İlk sürüm yüklendi)
+
